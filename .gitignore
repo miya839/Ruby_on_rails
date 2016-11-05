@@ -1,0 +1,16 @@
+/.bundle
+
+#ingnore the defaule SQLite database.
+
+/db/*.log
+/tmp
+
+#Ignore other unneeded files.
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
+
